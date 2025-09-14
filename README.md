@@ -66,7 +66,7 @@ MongoDB (local or MongoDB Atlas)
 Git
 Steps
 Clone the Repository
- https://github.com/satyavasavisv/DocSpot-Seamless-Appointment-Booking-For-Health
+ https://github.com/dileep0103/DocSpot-Seamless-Appointment-Booking-For-Health
 2 Backend Setup
 npm install touch .env
 
