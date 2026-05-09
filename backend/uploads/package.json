@@ -1,13 +1,20 @@
 {
-  "name": "backend",
+  "name": "docspot-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend for doctor appointment booking platform",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "mern",
+    "healthcare",
+    "doctor-booking",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Dileep Kumar",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
