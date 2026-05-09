@@ -1,5 +1,7 @@
 {
-  "name": "forntend",
+  "name": "healthcare-booking-frontend",
+  "description": "Frontend for doctor appointment booking platform",
+  "author": "Dileep Kumar",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,7 +24,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "proxy": "http://localhost:3000",
+  "proxy": "http://localhost:5000",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
